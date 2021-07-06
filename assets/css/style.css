@@ -49,7 +49,7 @@ body {
 }
 
 .aboutme {
-    background: url(https://raw.githubusercontent.com/hasanulsakir/food-mini/main/assets/img/bg.jpg);
+    background: url(assets/img/bg.jpg);
     background-repeat: no-repeat;
     width: 100%;
     margin-top: 10%;
