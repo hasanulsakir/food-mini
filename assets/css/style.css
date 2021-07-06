@@ -194,7 +194,7 @@ body {
 .contact {
     display: flex;
     margin: 0%;
-    background: url(/assets/img/Project_Cover4.png);
+    background: url(https://raw.githubusercontent.com/hasanulsakir/food-mini/main/assets/img/Project_Cover4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -219,6 +219,7 @@ body {
     font-size: 15px;
     text-align: center;
     font-weight: bold;
+    border: none;
 }
 
 .submit {
