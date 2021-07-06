@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-section {
+    display: flex;
+    width: 100%;
+}
+
+.half-wide {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 9%;
+}
+
+.title {
+    font-size: 55px;
+}
+
+.title {
+    font-size: 69px;
+    margin-top: 25%;
+}
+
+.half-wide p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.half-wide a {
+    text-decoration: none;
+    font-size: 15px;
+    background: linear-gradient( 47deg, #7e00ea, #5200f7);
+    padding: 13px 34px;
+    color: #ffff;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 3%;
+}
+
+.header-img {
+    height: 100%;
+    width: 100%;
+}
