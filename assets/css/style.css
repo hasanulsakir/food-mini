@@ -26,7 +26,7 @@ body {
 }
 
 .half-wide p {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 400;
 }
 
@@ -81,7 +81,6 @@ body {
 
 .section-img {
     width: 63%;
-    /* display: flex; */
     margin-left: 46%;
 }
 
@@ -140,7 +139,7 @@ body {
 
 .box h1 {
     margin-top: 5%;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     margin-bottom: 0%;
 }
@@ -191,8 +190,6 @@ body {
 
 
 /* contact section start */
-
-element.style {}
 
 .contact {
     display: flex;
