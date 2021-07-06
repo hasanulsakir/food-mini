@@ -154,6 +154,42 @@ body {
 /* my recipies section end */
 
 
+/* count area start */
+
+.count-box {
+    display: flex;
+    padding: 3% 0%;
+    background: #ffffff;
+    width: 70%;
+    margin: auto;
+    box-shadow: #dfdede 3px 3px 39px -2px;
+    border-radius: 29px;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.counter {
+    width: 33.33%;
+    text-align: center;
+}
+
+.counter h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+    text-transform: uppercase;
+}
+
+.counter p {
+    font-size: 15px;
+    margin-top: 1%;
+    text-transform: capitalize;
+}
+
+
+/* count area end */
+
+
 /* footer section css */
 
 .footer {
