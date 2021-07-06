@@ -117,13 +117,14 @@ body {
 
 .box-container {
     display: flex;
+    padding-bottom: 4%;
 }
 
 .box {
     width: 33%;
     height: 200px;
     background-color: #ffffff;
-    margin: 2%;
+    margin: 3%;
     padding: 0px 2%;
     padding-bottom: 28%;
     border-radius: 69px;
@@ -138,7 +139,7 @@ body {
 }
 
 .box h1 {
-    margin-top: 6%;
+    margin-top: 12%;
     font-size: 54px;
     font-weight: bold;
     margin-bottom: 0%;
