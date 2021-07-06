@@ -190,6 +190,56 @@ body {
 /* count area end */
 
 
+/* contact section start */
+
+element.style {}
+
+.contact {
+    display: flex;
+    margin: 0%;
+    background: url(/assets/img/Project_Cover4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 6% 0%;
+    background-blend-mode: overlay;
+    background-color: #00000080;
+}
+
+.contact .half-wide {
+    width: 45%;
+    padding-left: 9%;
+    padding-right: 4%;
+    margin: 0%;
+}
+
+.input {
+    width: 100%;
+    padding: 3% 0%;
+    border-radius: 29px;
+    margin-bottom: 3%;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.submit {
+    background: linear-gradient( 47deg, #7e00ea, #5200f7);
+    color: #ffffff;
+    font-size: 20px;
+    border: none;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* contact section end */
+
+
 /* footer section css */
 
 .footer {
