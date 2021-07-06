@@ -34,9 +34,9 @@ body {
     text-decoration: none;
     font-size: 17px;
     background: linear-gradient( 47deg, #7e00ea, #5200f7);
-    padding: 13px 34px;
+    padding: 25px 44px;
     color: #ffff;
-    border-radius: 20px;
+    border-radius: 38px;
     display: inline-block;
     margin-top: 3%;
     font-weight: 800;
@@ -47,6 +47,12 @@ body {
     width: 100%;
     margin-top: 5%;
 }
+
+
+/* top section css end */
+
+
+/* about section css start */
 
 .aboutme {
     background: url(https://raw.githubusercontent.com/hasanulsakir/food-mini/main/assets/img/bg.png);
@@ -79,12 +85,82 @@ body {
     margin-left: 46%;
 }
 
+
+/* about section css end */
+
+
+/* my recipies section start */
+
+.my-recipies {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    background: rgb(247, 247, 247);
+}
+
+.text-area {
+    text-align: center;
+}
+
+.my-recipies .title {
+    margin: auto;
+    padding-top: 3%;
+    color: rgb(83, 83, 83);
+}
+
+.my-recipies p {
+    display: inline-block;
+    width: 33%;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.box-container {
+    display: flex;
+}
+
+.box {
+    width: 33%;
+    height: 200px;
+    background-color: #ffffff;
+    margin: 2%;
+    padding: 0px 2%;
+    padding-bottom: 28%;
+    border-radius: 69px;
+    box-shadow: #ccc8c8 7px 7px 26px 1px;
+}
+
+.box img {
+    width: 100%;
+    border-radius: 69px;
+    box-shadow: #e4e4e4 4px 3px 14px 9px;
+    margin-top: 7%;
+}
+
+.box h1 {
+    margin-top: 6%;
+    font-size: 54px;
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+
+.box p {
+    width: 100%;
+    font-size: 24px;
+}
+
+
+/* my recipies section end */
+
+
+/* footer section css */
+
 .footer {
     background: #000;
     text-align: center;
     padding: 0%;
     margin: 0%;
-    color: #a29e9e;
+    color: #555454;
 }
 
 .footer p {
@@ -93,6 +169,7 @@ body {
     margin-bottom: 0%;
     padding-bottom: 4%;
     text-transform: capitalize;
+    color: rgb(207, 207, 207);
 }
 
 .footer .title {
