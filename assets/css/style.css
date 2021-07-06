@@ -49,13 +49,14 @@ body {
 }
 
 .aboutme {
-    background: url(assets/img/bg.jpg);
+    background: url(/assets/img/bg.png);
     background-repeat: no-repeat;
     width: 100%;
     margin-top: 10%;
     background-size: cover;
     background-position: top;
     display: flex;
+    height: 50%;
 }
 
 .aboutme .half-wide {
